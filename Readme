@@ -1,28 +1,27 @@
-# Documentation Referred
+# Project: Terraform with AWS
+Documentation_Referred:
+  - https://registry.terraform.io/
+  - https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
-1. <https://registry.terraform.io/>
-2. <https://registry.terraform.io/providers/hashicorp/aws/latest/docs>
-
-## Lessons
-
-1. Lesson_01 -------------- How to create ec2 instance
-2. Lesson_02 -------------- How to create security group
-3. Lesson_03 -------------- How to create elastic ip
-4. Lesson_04 -------------- How to check the attributes
-5. Lesson_05 -------------- Create a cross reference attribute
-6. Lesson_06 -------------- How to Outputvalues
-7. Lesson_07 -------------- How to create variable
-8. Lesson_08 -------------- How to create Tfvars
-9. Lesson_09 -------------- List variable
-10. Lesson_10 ------------- Map variable
-11. Lesson_11 ------------- Count in terraform
-12. Lesson_12 ------------- Count-Index in terraform
-13. Lesson_14 ------------- Condition in terraform
-14. Lesson_15 ------------- Function in terraform
-15. Lesson_16 ------------- Locals in terraform
-16. Lesson_17 ------------- Alias in terraform
-17. Lesson_18 ------------- Sesistive Information in terraform
-18. Lesson_19 ------------- Provisioners in terraform
+Lessons:
+  - Lesson_01: How to create ec2 instance
+  - Lesson_02: How to create security group
+  - Lesson_03: How to create elastic ip
+  - Lesson_04: How to check the attributes
+  - Lesson_05: Create a cross reference attribute
+  - Lesson_06: How to Outputvalues
+  - Lesson_07: How to create variable
+  - Lesson_08: How to create Tfvars
+  - Lesson_09: List variable
+  - Lesson_10: Map variable
+  - Lesson_11: Count in terraform
+  - Lesson_12: Count-Index in terraform
+  - Lesson_14: Condition in terraform
+  - Lesson_15: Function in terraform
+  - Lesson_16: Locals in terraform
+  - Lesson_17: Alias in terraform
+  - Lesson_18: Sensitive Information in terraform
+  - Lesson_19: Provisioners in terraform
 
 
 

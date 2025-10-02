@@ -22,6 +22,10 @@ Lessons:
   - Lesson_17: Alias in terraform
   - Lesson_18: Sensitive Information in terraform
   - Lesson_19: Provisioners in terraform
+  - Lesson_20: S3 as backend in terraform
+  - Lesson_21: Terraform state commands
+  - Lesson_22: Terraform Modules
+  
 
 
 

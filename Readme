@@ -25,6 +25,11 @@ Lessons:
   - Lesson_20: S3 as backend in terraform
   - Lesson_21: Terraform state commands
   - Lesson_22: Terraform Modules
+  - Lesson_23: Terraform Custom Modules
+  - Lesson_24: Terraform Output Command
+  - Lesson_25: Terraform Data Sources
+  - Lesson_26: Terraform Dynamic Blocks
+  
   
 
 

@@ -33,6 +33,7 @@ Lessons:
   - Lesson_28: Terraform Resource Dependencies
   - Lesson_29: Terraform Resource Lifecycle
   - Lesson_30: Terraform setdatatype
+  - Lesson_31: Terraform For_Each
 
   
   

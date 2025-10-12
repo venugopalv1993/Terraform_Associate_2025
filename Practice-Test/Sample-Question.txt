@@ -1,0 +1,90 @@
+
+1. Matt wants to run Terraform on his Windows Laptop.  Matt read that Terraform Core is developed using the Go programming language.
+Is there a need for Matt to explicitly install the GO programming language on his Windows laptop in order to run Terraform?
+
+No
+
+___________________________________________________________________________________________________________________________________
+
+
+Alice has created a variable associated with the db_password parameter in the following way: var.db_password
+
+The value associated with the variable is defined in terraform.tfvars file in the following way:
+
+db_password="mypassword"
+
+Will the password be part of the terraform state file?
+
+
+True
+
+----------------------------------------------------------------------------------------------------
+
+Question 3:
+Following is the snippet of Terraform code that is part of the AWS VPC Module.
+
+
+
+variable "vpc_cidr_block" {
+  type = map
+  default = {
+    us-east-1 = "192.168.10.0/24"
+    ap-south-1 = "192.168.20.0/24"
+    us-west-2  = "10.77.0.0/16"     
+  }
+}
+If there is a requirement to fetch the value of 10.77.0.0/16 associated with a specific variable?
+
+us-west-2  = "10.77.0.0/16" 
+----------------------------------------------------------------------------------------------------
+
+Question 4:
+Matthew is implementing Terraform in production. 
+
+He realized that every region in AWS has a different AMI ID for CentOS 7 OS.
+
+He wants to create a Terraform code that works for all the regions. 
+
+He has already created the EC2 resource but needs to figure on how he can deal with different AMI IDs based on regions? What is the best approach?
+
+Make use of datasource
+
+0--------------------------------------------------------------
+
+Question 5:
+
+James is having an issue with his Terraform code. As part of the troubleshooting process, he intends to enable debugging. What is the way to do that?
+
+TF_LOG = Trace
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+There is something wrong with the Terraform version that Alice is using. The HashiCorp team has requested to store the crash logs to a file and send the file over email.
+
+What is the way for Alice to store the logs to a file named /tmp/kplabs-tf-crash.log
+
+a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

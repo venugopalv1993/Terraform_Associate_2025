@@ -35,7 +35,7 @@ Lessons:
   - Lesson_30: Terraform setdatatype
   - Lesson_31: Terraform For_Each
   - Challenge_01: Code fix and versioning
-  - Challenge_02: Format and variable
+  - Challenge_02: Format and variable.
   - Challenge_03: For For_Each, create multiple EC2 instances with different instance types and tags.
   - Challenge_04: Iam User and Policies Data Source.
 
